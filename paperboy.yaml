@@ -4,8 +4,8 @@ recipes:
     - The Sydney Morning Herald - Printed edition
     
 recipients:
-    - nathanpiper@free.kindle.com
+    - yourusername@free.kindle.com
     
-from: nathan@dev.sweetinsanity.org
+from: yourusername@yourdomain.com
     
 temp_dir: 
