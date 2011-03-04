@@ -1,0 +1,11 @@
+recipes:
+    - Slate (complete)
+    - Inc Magazine
+    - The Sydney Morning Herald - Printed edition
+    
+recipients:
+    - nathanpiper@free.kindle.com
+    
+from: nathan@dev.sweetinsanity.org
+    
+temp_dir: 
